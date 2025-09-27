@@ -68,7 +68,7 @@ printf("Hello world");
 - 组织
 - 领导
 - 控制
-- ![image-20250927113020329](C:\Users\ASUS\Desktop\Chi-git-\README.assets\image-20250927113020329.png)
+- ![image-20250927113020329](.\README.assets\image-20250927113020329.png)
 
 $V_球=\frac{4}{3} \pi r^3$是体积公式
 $$
